@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.e420295f.chunk.css",
+    "main.css": "./static/css/main.ad8a075e.chunk.css",
     "main.js": "./static/js/main.48e02730.chunk.js",
     "main.js.map": "./static/js/main.48e02730.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.ca2e75c5.js",
@@ -9,10 +9,10 @@
     "static/js/2.f7aacd1e.chunk.js": "./static/js/2.f7aacd1e.chunk.js",
     "static/js/2.f7aacd1e.chunk.js.map": "./static/js/2.f7aacd1e.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f12b6a1a54943ce611e5b363fab9c038.js": "./precache-manifest.f12b6a1a54943ce611e5b363fab9c038.js",
+    "precache-manifest.445ee5d4f492ba287463bd637ac40d51.js": "./precache-manifest.445ee5d4f492ba287463bd637ac40d51.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.f9036515.chunk.css.map": "./static/css/2.f9036515.chunk.css.map",
-    "static/css/main.e420295f.chunk.css.map": "./static/css/main.e420295f.chunk.css.map",
+    "static/css/main.ad8a075e.chunk.css.map": "./static/css/main.ad8a075e.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/MSRcososGroup-logo.svg": "./static/media/MSRcososGroup-logo.14b89d6b.svg",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
@@ -76,7 +76,7 @@
     "static/js/runtime-main.ca2e75c5.js",
     "static/css/2.f9036515.chunk.css",
     "static/js/2.f7aacd1e.chunk.js",
-    "static/css/main.e420295f.chunk.css",
+    "static/css/main.ad8a075e.chunk.css",
     "static/js/main.48e02730.chunk.js"
   ]
 }
