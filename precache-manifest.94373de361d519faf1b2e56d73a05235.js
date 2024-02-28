@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cc800af255883a68121e1c047cf947e",
+    "revision": "6ca7d0024d233ff9c3dadda3750a77da",
     "url": "./index.html"
   },
   {
-    "revision": "b8095dcb92457aca26f2",
+    "revision": "dead0223eada6eb82353",
     "url": "./static/css/2.f9036515.chunk.css"
   },
   {
-    "revision": "3fb5044a2507c61b0868",
-    "url": "./static/css/main.64fe2499.chunk.css"
+    "revision": "70271a9145c36a637ea5",
+    "url": "./static/css/main.ae6aa92a.chunk.css"
   },
   {
-    "revision": "b8095dcb92457aca26f2",
-    "url": "./static/js/2.eee0f7f8.chunk.js"
+    "revision": "dead0223eada6eb82353",
+    "url": "./static/js/2.ad42206c.chunk.js"
   },
   {
-    "revision": "3fb5044a2507c61b0868",
-    "url": "./static/js/main.6d938dfe.chunk.js"
+    "revision": "70271a9145c36a637ea5",
+    "url": "./static/js/main.a06c0473.chunk.js"
   },
   {
     "revision": "8c798eb0525fb3d8038c",
@@ -204,6 +204,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/iiitk_logo.571a8584.png"
   },
   {
+    "revision": "a021dad10a1801773442e8bb2fd4bab1",
+    "url": "./static/media/infosys-logo-png.a021dad1.png"
+  },
+  {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "./static/media/intel_logo.29152cf7.jpg"
   },
@@ -274,6 +278,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c0d3c94cd6112550c51d7d1ed13b9da1",
     "url": "./static/media/notification.c0d3c94c.eot"
+  },
+  {
+    "revision": "08e38c47066e19920503023ff8aa5b91",
+    "url": "./static/media/npm.08e38c47.svg"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
