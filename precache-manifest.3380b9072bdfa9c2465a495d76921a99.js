@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05a0050fa8a9b87c7c61a0a3c7b1cd01",
+    "revision": "20c0a9e0336397f10d5ba9f0fc90959b",
     "url": "./index.html"
   },
   {
-    "revision": "a10af19edd7389953d38",
+    "revision": "478bf087d67db5010136",
     "url": "./static/css/2.fe7f23bb.chunk.css"
   },
   {
-    "revision": "1cbada79ac52ea168f26",
-    "url": "./static/css/main.079ecd76.chunk.css"
+    "revision": "e8d498bdb1f14218c52e",
+    "url": "./static/css/main.b8249961.chunk.css"
   },
   {
-    "revision": "a10af19edd7389953d38",
-    "url": "./static/js/2.c7c9d803.chunk.js"
+    "revision": "478bf087d67db5010136",
+    "url": "./static/js/2.77e43950.chunk.js"
   },
   {
-    "revision": "1cbada79ac52ea168f26",
-    "url": "./static/js/main.ddd226e0.chunk.js"
+    "revision": "e8d498bdb1f14218c52e",
+    "url": "./static/js/main.0b344bb2.chunk.js"
   },
   {
     "revision": "8c798eb0525fb3d8038c",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
-    "revision": "14b89d6ba7143afebc3d78c08307ad11",
-    "url": "./static/media/MSRcososGroup-logo.14b89d6b.svg"
+    "revision": "b3053fdee658d6e9e9782bcb4029956b",
+    "url": "./static/media/MSRcososGroup-logo.b3053fde.svg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -188,10 +188,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/github_logo.6eeb2e81.png"
   },
   {
-    "revision": "41a65a278b763203778ebfe0a665d05e",
-    "url": "./static/media/gmu.41a65a27.jpg"
-  },
-  {
     "revision": "a1a27f5ff3eb84838f610f75242777de",
     "url": "./static/media/gmu.a1a27f5f.png"
   },
@@ -224,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/intel_logo.29152cf7.jpg"
   },
   {
-    "revision": "def4b54ff2cf0d31643a9b906cd3b977",
-    "url": "./static/media/iotImg.def4b54f.svg"
+    "revision": "ac3e97150c7e310e01c2737bea82b71b",
+    "url": "./static/media/iotImg.ac3e9715.svg"
   },
   {
     "revision": "5fa731084deaf9300c2319006d18fdc0",
@@ -352,16 +348,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/talksCardBackAlt.3fa54242.svg"
   },
   {
-    "revision": "e9df184732d3551dc1cef6339a6bc64b",
-    "url": "./static/media/ticketing.e9df1847.svg"
+    "revision": "cf18388258813e46f63b7324dc216e90",
+    "url": "./static/media/ticketing.cf183882.svg"
   },
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "./static/media/tiktok_logo.0993e324.png"
   },
   {
-    "revision": "fdc021e4e6040038df62751a82ba8b36",
-    "url": "./static/media/tmill.fdc021e4.svg"
+    "revision": "b444d18c89fcfcf1c0db0a6c97e0dd3e",
+    "url": "./static/media/tmill.b444d18c.svg"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
